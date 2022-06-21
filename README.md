@@ -1,0 +1,3 @@
+- 👋 Oii meu nome é Emilly,eu sou estudante do colegio São Mateus
+- 👀 Tenho 17 anos
+- 🌱 Sou estudante de pensamento computacional
